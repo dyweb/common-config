@@ -35,9 +35,11 @@ vendor
 # ============ end of php =============
 
 # ============ start of stuff =========
-# IDE
+# IDE: PhpStorm
 .idea/*
-# TODO:subnlime
+# IDE: Sublime
+*.sublime-project
+*.sublime-workspace
 
 # mac
 .DS_Store
