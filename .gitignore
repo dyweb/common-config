@@ -34,6 +34,11 @@ node_modules
 vendor
 # ============ end of php =============
 
+# ============ start of vagrant =======
+.vagrant
+Vagrantfile
+# ============ end of vagrant =========
+
 # ============ start of stuff =========
 # IDE: PhpStorm
 .idea/*
